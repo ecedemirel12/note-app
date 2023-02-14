@@ -8,7 +8,7 @@ A simple note application.
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile
 
 ```sh
 npm run dev
